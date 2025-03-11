@@ -5,11 +5,13 @@
 }
 body{
     background-color: rgba(205, 191, 191, 0.434);
+    margin: 0;
+    padding: 0;
 }
 
 .imagem_1{
     height: 20px;
-    width: 1870px;
+    width: 1890px;
 }
 .imagem_2{
     padding: 10px;
@@ -76,8 +78,53 @@ body{
     height: 30px;
     width: 200px;
 }
+.foto_1{
+    padding: 10px;
+    height: 30px;
+    width: 30px;  
+}
+.foto_2{
+    padding: 10px;
+    height: 30px;
+    width: 30px;  
+}
+.foto_3{
+    padding: 10px;
+    height: 30px;
+    width: 30px;  
+}
+.foto_4{
+    padding: 10px;
+    height: 30px;
+    width: 30px;  
+}
+.foto_5{
+    padding: 10px;
+    height: 30px;
+    width: 30px;  
+}
+.foto_6{
+    padding: 10px;
+    height: 30px;
+    width: 30px;  
+}
 
-
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    margin: 20px;
+  }
+  
+  td, th {
+    border: 1px solid #1d0b0b;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
 
 
 
@@ -87,4 +134,7 @@ body{
 
 .flex{
     display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
 }
