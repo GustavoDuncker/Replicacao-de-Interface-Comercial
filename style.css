@@ -1,6 +1,13 @@
 #rodape{
-    background-color: rgb(24, 207, 207);
+    background-color: rgb(151, 155, 155);
+    padding: 20px;
+    font-size: 20;
 }
-.body{
-    background-color: rgb(252, 216, 173);
+body{
+    background-color: rgba(205, 191, 191, 0.434);
+}
+
+.imagem_1{
+    height: 20px;
+    width: 1870px;
 }
