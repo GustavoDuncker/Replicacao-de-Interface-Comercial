@@ -11,3 +11,80 @@ body{
     height: 20px;
     width: 1870px;
 }
+.imagem_2{
+    padding: 10px;
+    height: 30px;
+    width: 30px;
+}
+.imagem_3{
+    padding: 10px;
+    height: 30px;
+    width: 30px;
+}
+.imagem_4{
+    padding: 10px;
+    height: 30px;
+    width: 30px;
+}
+.imagem_5{
+    padding: 10px;
+    height: 30px;
+    width: 30px;
+}
+.imagem_6{
+    padding: 10px;
+    height: 30px;
+    width: 30px;
+}
+.imagem_7{
+    padding: 10px;
+    height: 30px;
+    width: 30px;
+}
+.imagem_8{
+    padding: 10px;
+    height: 30px;
+    width: 30px;
+}
+.imagem_9{
+    padding: 10px;
+    height: 30px;
+    width: 30px;
+}
+.imagem_10{
+    padding: 10px;
+    height: 30px;
+    width: 30px;
+}
+.imagem_11{
+    padding: 10px;
+    height: 30px;
+    width: 30px;
+}
+.imagem_12{
+    padding: 10px;
+    height: 30px;
+    width: 30px;
+}
+.imagem_13{
+    padding: 10px;
+    height: 30px;
+    width: 30px;
+}
+.imagem_14{
+    padding: 10px;
+    height: 30px;
+    width: 200px;
+}
+
+
+
+
+
+#save{
+    margin-bottom: 5px;
+}
+
+.flex{
+    display: flex;
+}
